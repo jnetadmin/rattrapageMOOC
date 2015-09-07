@@ -1,14 +1,14 @@
 # MON PETIT SITE WORDPRESS
 
-PLAN:
-1. Avant tout!
+PLAN
+1. Avant tout
 2. Les parties du site
-  * présentation
-  * catégories:_IDEES_
-  * contact
+   * présentation
+   * catégories:_IDEES_
+   * contact
 3. Les éléments
-  - widget:lateral droit
-  - widget:footer 
+   - widget:lateral droit
+   - widget:footer 
 4. Remarques
 
 
