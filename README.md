@@ -1,6 +1,7 @@
 # MON PETIT SITE WORDPRESS
 
 PLAN
+
 1. Avant tout
 2. Les parties du site
 3. Les éléments
