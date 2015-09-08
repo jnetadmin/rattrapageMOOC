@@ -18,8 +18,8 @@ PLAN
 
 ###présentation
   La page de présentation présente des paragraphes 
-  
-  et un blockquote
+    et un blockquote
+    ![présentation](https://hasimbonjy.files.wordpress.com/2015/09/pres.png)
 ###La ctégorie: IDEES
   cette catégorie regroupe 2 posts
   >>1. Ouff!
