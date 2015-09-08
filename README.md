@@ -6,7 +6,7 @@ PLAN
 2. Les parties du site
 3. Les éléments
 4. Remarques
-
+[Chapter 1](#chapter-1)
 
 ##1- AVANT TOUT!
   ceci est un site en ligne sur wordpress.com
@@ -29,7 +29,7 @@ PLAN
   C'est une page qui montre la définition d'un article selon wordpress
 ###WP en local 
   C'est une autre page qui présente des screenshout de mon WP local 
-###Contact
+###ContactChapter 1 <a id="chapter-1"></a>
   une page avec un formulaire de contact 
   
 
