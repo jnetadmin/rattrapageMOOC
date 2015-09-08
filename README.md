@@ -8,10 +8,10 @@ PLAN
 4. [Remarques](#Remarques)
 
 ##1- AVANT TOUT!
-  ceci est un site en ligne sur wordpress.com
-  l'adresse est *https://hasimbonjy.wordpress.com/*
-  j'espère que cela rencontre vos attentes.
-  _bonne lecture_
+  >ceci est un site en ligne sur wordpress.com
+  >l'adresse est *https://hasimbonjy.wordpress.com/*
+  >j'espère que cela rencontre vos attentes.
+  >_bonne lecture_
   
 ##2- LES PARTIES DU SITE <a id="ptiesite"></a>
 
@@ -40,10 +40,10 @@ PLAN
 ###- widget latéral 
 j'ai inséré un menu perso pointant vers les pages 
 le widget des catégories et twitter
-![widget 1](https://hasimbonjy.files.wordpress.com/2015/09/widget1.png)
+ ![widget 1](https://hasimbonjy.files.wordpress.com/2015/09/widget1.png)
 ###- widget footer 
 ceux là ont été insérés pour voir de quoi il s'agissait :tongue:
-![widget 2](https://hasimbonjy.files.wordpress.com/2015/09/widget2.png)
+ ![widget 2](https://hasimbonjy.files.wordpress.com/2015/09/widget2.png)
 
 ## REMARQUES  <a id="Remarques"></a> 
 > pour le site en ligne je n'ai pas pu installer des plugins
