@@ -16,7 +16,22 @@ PLAN
   
 ##2- LES PARTIES DU SITE
 
-   ###présentation
+###présentation
+  La page de présentation présente des paragraphes 
+  
+  et un blockquote
+###La ctégorie: IDEES
+  cette catégorie regroupe 2 posts
+  >>1. Ouff!
+  >>2. Vision
+  
+###Articles
+  C'est une page qui montre la définition d'un article selon wordpress
+###WP en local 
+  C'est une autre page qui présente des screenshout de mon WP local 
+###Contact
+  une page avec un formulaire de contact 
+  
 
   
   
