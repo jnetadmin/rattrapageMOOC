@@ -93,7 +93,7 @@ ceux là ont été insérés pour voir de quoi il s'agissait :tongue:
 ![error ](https://hasimbonjy.files.wordpress.com/2015/09/plug.png)
 
 
->j'aime bien les CMS mais je préfère créer mes pages - avec des template évidement 
+>j'aime bien les CMS mais je préfère créer mes pages - avec des template évidemment 
 
 
   
